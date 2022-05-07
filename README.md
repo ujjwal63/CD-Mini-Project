@@ -1,1 +1,1 @@
-# CD-Mini-Projects
+# CD-Mini-Project
